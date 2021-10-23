@@ -119,7 +119,7 @@ In this section all of the requirements outputs were generated using the base ta
 
 [![forthebadge](view-problem-solving.svg)](https://github.com)
 
-# 🔮 Final Ouput
+# 🔮 Final Output
 In this final section all of the individual outputs previously made in the problem solving section were combined into one dataset so that the marketing team can have access to all the requierements from the email template in one place. 
 
 [![forthebadge](view-final-output.svg)](https://github.com)
