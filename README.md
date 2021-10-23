@@ -21,7 +21,7 @@
 
 The DVD Rental Co customer analytics  asked for our support. The team needed to generate  the necessary data points required to populate specific parts of this first-ever customer email campaign.
 
-## 📋 Requirements
+# 📋 Requirements
 
 The marketing team shared with us an email template of what they wanted to send to their customers.
 
@@ -78,19 +78,17 @@ Marketing has also requested for the top actor film recommendations where up to 
 
 The analytics team provided us with an entity-relationship diagram (ERD).
 
-<iframe height="400" width="100%"
-src='https://dbdiagram.io/embed/5fe1cb6e9a6c525a03bbf839'>
-</iframe>
+![erd](erd_dvd_rental.png)
 
 The 7 tables from the ERD were explored in the link below.
 
-[![forthebadge](view-data-exploration.svg)](https://github.com)
+[![forthebadge](view-data-exploration.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/data_exploration_dvd_rental.md)
 
 # ⚙️ Problem Approach 
 
 In this section the problem approach was shown and the key columns from the ERD were identified for proceeding with the table joins.
 
-[![forthebadge](view-problem-approach.svg)](https://github.com)
+[![forthebadge](view-problem-approach.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/problem_approach_dvd_rental.md)
 
 # 🧱 Join Implementation
 
@@ -100,18 +98,18 @@ There are two parts, the first part shows the base table for the category insigh
 
 ## Part 1
 
-[![forthebadge](view-join-implementation-part-1.svg)](https://github.com)
+[![forthebadge](view-join-implementation-part-1.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/join_implementation_dvd_rental.md)
 
 ## Part 2
 
-[![forthebadge](view-join-implementation-part-2.svg)](https://github.com)
+[![forthebadge](view-join-implementation-part-2.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/join_implementation_2_dvd_rental.md)
 
 # 🔧 Problem Solving 
 In this section all of the requirements outputs were generated using the base tables previously made in the join implementations.
 
-[![forthebadge](view-problem-solving.svg)](https://github.com)
+[![forthebadge](view-problem-solving.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/problem_solving_dvd_rental.md)
 
 # 🔮 Final Output
 In this final section all of the individual outputs previously made in the problem solving section were combined into one dataset so that the marketing team can have access to all the requierements from the email template in one place. 
 
-[![forthebadge](view-final-output.svg)](https://github.com)
+[![forthebadge](view-final-output.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/final_output_dvd_rental.md)
