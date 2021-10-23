@@ -681,5 +681,5 @@ In the next section all of these individual outputs were combined into one datas
 
 Please click on the link below to go to the next section.
 
-[![forthebadge](view-final-output.svg)](https://github.com)
+[![forthebadge](view-final-output.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/final_output_dvd_rental.md)
 
