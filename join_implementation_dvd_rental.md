@@ -414,7 +414,7 @@ The base table for the actor insights was generated for the next join implementa
 
 Please click on the link below to go to the next part.
 
-[![forthebadge](view-join-implementation-part-2.svg)](https://github.com)
+[![forthebadge](view-join-implementation-part-2.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/join_implementation_2_dvd_rental.md)
 
 # Appendix
 
