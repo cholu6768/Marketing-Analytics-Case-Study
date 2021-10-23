@@ -3,33 +3,25 @@
 > **This case study can be found in the [Serious SQL](https://www.datawithdanny.com) course made by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).**
 
 # Table of contents
-<!--ts-->
-   * 💿 [About](#️-about)
+- [💿About](#about)
+- [📋 Requirements](#-requirements)
+  - [📋 Requirement #1: Top 2 Categories](#-requirement-1-top-2-categories)
+  - [📋 Requirement #2: Category Film Recommendations](#-requirement-2-category-film-recommendations)
+  - [📋 Requirements #3 & #4: Individual Customer Insights](#-requirements-3--4-individual-customer-insights)
+  - [📋 Requirement #5: Favorite Actor Recommendation](#-requirement-5-favorite-actor-recommendation)
+- [🔎 Data Exploration](#-data-exploration)
+- [⚙️ Problem Approach](#️-problem-approach)
+- [🧱 Join Implementation](#-join-implementation)
+    - [Part 1](#part-1)
+    - [Part 2](#part-2)
+- [🔧 Problem Solving](#-problem-solving)
+- [🔮 Final Output](#-final-output)
 
-   * 📋 [Requirements](#-requirements)
-      * [Requirement #1](#-requirement_#1:_top_2_categories)
-      * [Requirement #2](#-requirement_#2:_category_film_recommendations)
-      * [Requirements #3 & #4](#-requirements_#3_&_#4:_individual_customer_insights)
-      * [Requirement #5](#-requirement_#5:_favorite_actor_recommendation)
-
-   * 🔎 [Data Exploration](#-data-exploration)
-
-   * ⚙️ [Problem Approach](#-problem-approach)
-
-   * 🧱 [Join Implementation](#-join-implementation)
-    * [Part 1](#-part-1)
-    * [Part 2](#-part-2)
-   
-   * 🔧 [Problem Solving](#️-problem-solving)
-
-   * 🔮 [Final Output](#-final-output)
-<!--te-->
-
-# 💿 About 
+# 💿About
 
 The DVD Rental Co customer analytics  asked for our support. The team needed to generate  the necessary data points required to populate specific parts of this first-ever customer email campaign.
 
-# 📋 Requirements
+## 📋 Requirements
 
 The marketing team shared with us an email template of what they wanted to send to their customers.
 
@@ -106,11 +98,11 @@ In this section the approach on doing the joins is shown and also how the base t
 
 There are two parts, the first part shows the base table for the category insights while the second part shows the base table for the actor insights.
 
-### Part 1
+## Part 1
 
 [![forthebadge](view-join-implementation-part-1.svg)](https://github.com)
 
-### Part 2
+## Part 2
 
 [![forthebadge](view-join-implementation-part-2.svg)](https://github.com)
 
