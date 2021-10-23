@@ -3,27 +3,27 @@
 > **This case study can be found in the [Serious SQL](https://www.datawithdanny.com) course made by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).**
 
 # Table of contents
+<!--ts-->
+   *💿 [About](#️-about)
 
-- 💿 [About](#️-about)
+   *📋 [Requirements](#-requirements)
+      * [Requirement #1](#-requirement_#1:_top_2_categories)
+      * [Requirement #2](#-requirement_#2:_category_film_recommendations)
+      * [Requirements #3 & #4](#-requirements_#3_&_#4:_individual_customer_insights)
+      * [Requirement #5](#-requirement_#5:_favorite_actor_recommendation)
 
-- 📋 [Requirements](#-requirements)
-    * [Requirement #1](#-requirement_#1:_top_2_categories)
-    * [Requirement #2](#-requirement_#2:_category_film_recommendations)
-    * [Requirements #3 & #4](#-requirements_#3_&_#4:_individual_customer_insights)
-    * [Requirement #5](#-requirement_#5:_favorite_actor_recommendation)
+   * 🔎 [Data Exploration](#-data-exploration)
 
-- 🔎 [Data Exploration](#-data-exploration)
+   * ⚙️ [Problem Approach](#-problem-approach)
 
-- ⚙️ [Problem Approach](#-problem-approach)
-
-- 🧱 [Join Implementation](#-join-implementation)
-    - [Part 1](#-part-1)
-    - [Part 2](#-part-2)
+   * 🧱 [Join Implementation](#-join-implementation)
+    * [Part 1](#-part-1)
+    * [Part 2](#-part-2)
    
-- 🔧 [Problem Solving](#️-problem-solving)
+   * 🔧 [Problem Solving](#️-problem-solving)
 
-- 🔮 [Final Output](#-final-output)
-
+   * 🔮 [Final Output](#-final-output)
+<!--te-->
 
 # 💿 About 
 
