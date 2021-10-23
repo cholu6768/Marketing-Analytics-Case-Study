@@ -592,4 +592,4 @@ In the next section all the requierement outputs were generated with the use of 
 
 Please click on the link below to go to the next section.
 
-[![forthebadge](view-problem-solving.svg)](https://github.com)
+[![forthebadge](view-problem-solving.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/problem_solving_dvd_rental.md)
