@@ -5,6 +5,7 @@
 # Table of contents
 
 - [💿 About](#️-about)
+
 - [📋 Requirements](#-requirements)
     * [Requirement #1](#-requirement_#1:_top_2_categories)
     * [Requirement #2](#-requirement_#2:_category_film_recommendations)
@@ -12,11 +13,15 @@
     * [Requirement #5](#-requirement_#5:_favorite_actor_recommendation)
 
 - [🔎 Data Exploration](#-data-exploration)
+
 - [⚙️ Problem Approach](#-problem-approach)
+
 - [🧱 Join Implementation](#-join-implementation)
     * [Part 1](#-part-1)
     * [Part 2](#-part-2)
+   
 - [🔧 Problem Solving](#️-problem-solving)
+
 - [🔮 Final Output](#-final-output)
 
 
