@@ -90,4 +90,4 @@ In the next section the approach on doing the joins was explained and also how t
 
 Please make sure to click on the link below to go to the next part.
 
-[![forthebadge](view-join-implementation.svg)](https://github.com)
+[![forthebadge](view-join-implementation.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/join_implementation_dvd_rental.md)
