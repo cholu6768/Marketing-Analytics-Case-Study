@@ -259,4 +259,4 @@ The next section talked about how the problem is going to be approached by using
 
 Please make sure to click on the link below to go to the next section. 
 
-[![forthebadge](view-problem-approach.svg)](https://github.com)
+[![forthebadge](view-problem-approach.svg)](https://github.com/cholu6768/Marketing-Analytics-Case-Study/blob/main/problem_approach_dvd_rental.md)
