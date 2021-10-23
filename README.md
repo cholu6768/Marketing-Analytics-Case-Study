@@ -4,7 +4,7 @@
 
 # Table of contents
 
-- [💿 About](#️-about)
+- [💿 About](#️about)
 
 - [📋 Requirements](#-requirements)
     * [Requirement #1](#-requirement_#1:_top_2_categories)
