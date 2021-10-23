@@ -4,9 +4,9 @@
 
 # Table of contents
 <!--ts-->
-   *💿 [About](#️-about)
+   * 💿 [About](#️-about)
 
-   *📋 [Requirements](#-requirements)
+   * 📋 [Requirements](#-requirements)
       * [Requirement #1](#-requirement_#1:_top_2_categories)
       * [Requirement #2](#-requirement_#2:_category_film_recommendations)
       * [Requirements #3 & #4](#-requirements_#3_&_#4:_individual_customer_insights)
