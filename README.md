@@ -76,7 +76,7 @@ Marketing has also requested for the top actor film recommendations where up to 
 
 # 🔎 Data Exploration
 
-The analytics team provided us with an entity-relationship diagram (ERD).
+The analytics team provided an entity-relationship diagram (ERD).
 
 ![erd](erd_dvd_rental.png)
 
