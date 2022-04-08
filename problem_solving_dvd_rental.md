@@ -584,7 +584,7 @@ WHERE film_id = 80;
 
 ## Actor Film Exclusions
 
-The actor film exclusions was created by doing ``UNION`` between the films that the customers already watched and the film recommendations that were madesd for the customer's top category. 
+The actor film exclusions was created by doing ``UNION`` between the films that the customers already watched and the film recommendations that were made for the customer's top category. 
 
 By doing the actor film exclusions table, the recommendation of the same films is avoided later on for the final actor film recommendations.
 
